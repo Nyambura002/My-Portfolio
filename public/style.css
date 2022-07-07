@@ -9,7 +9,7 @@ section{
 }
 
 .hero{
-    background-color: rgb(253, 144, 144);
+    background-color: rgb(249, 153, 153);
     height: 100vh;
 }
 
@@ -56,6 +56,5 @@ h1{
     font-size: 30px;
     font-weight: 300;
     padding-top: 5px;
-    margin-top: 20px;
-    
+    margin-top: 20px;   
 }
